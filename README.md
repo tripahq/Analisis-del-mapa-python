@@ -1,4 +1,8 @@
-Este programa sirve para pasar multiples archivos PDF o Word a formato Excel, necesitas copiar la ruta con todos los archivos que necesites transformar dentro de la linea 46, entre las comillas
 
+This program is designed to convert multiple PDF or Word files into a single Excel file that consolidates all the data, which is useful if you need to search for specific information across all your documents that share the same format.
 
-This Script it is for changing pdf and word into excel formar documents, you need to copy the route wich need to contain all the documents you need to transform into line 46 into the python file in ".".
+OPEN on [dist] directory "gui_procesar.exe"
+
+Works on English and Spanish.
+
+If OCR needed you need to install Tesseract OCR.
